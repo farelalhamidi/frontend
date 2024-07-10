@@ -1,8 +1,9 @@
-import Componentw from 'react'
+import React from 'react'
+
 function Kotak1() {
   return (
     <>
-        <h2>Kotak 1</h2>
+        <h2 className='text-light border border-danger border-4 bg-dark'>Kotak 1</h2>
     </>
   )
 }
