@@ -139,14 +139,6 @@ function App() {
       </div>
 
       
-      <div className="container">
-        <div className="d-flex">
-                  <p className="my-5 text-secondary">Album example is &copy; Bootsrtrap, but please download and customize it for yourself!
-            <br/>
-                    how to Bootsrtrap? <a className="text-decoration-none" href="">Visit the homepage</a> or read our <a className="text-decoration-none" href="">getting started guide</a>
-                </p>
-                <a className="ms-auto p-5 text-decoration-none" href="">Back to top</a>
-      </div></div>
     </>
   )
 }
